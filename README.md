@@ -4,7 +4,7 @@ This project explores global CO₂ emissions using public datasets, focusing on 
 
 Dataset: [CO₂ emissions dataset](https://ourworldindata.org/co2-dataset-sources)
 
-Dashboards: [Dashboard #1](https://public.tableau.com/app/profile/rui.campos/viz/TotalCOEmissionsCOEmissionsperCapita/Dashboard1) / [Dashboard #2](https://public.tableau.com/app/profile/rui.campos/viz/GDPperCapitavsCOperCapitaCOEmissionsvsPopulation/Dashboard2) / [Dashboard #3](https://public.tableau.com/app/profile/rui.campos/viz/CO2Emissions_17531143141330/Dashboard)
+Dashboards: [Dashboard #1](https://public.tableau.com/app/profile/rui.campos/viz/TotalCOEmissionsCOEmissionsperCapita/Dashboard1) / [Dashboard #2](https://public.tableau.com/app/profile/rui.campos/viz/GDPperCapitavsCOperCapitaCOEmissionsvsPopulation/Dashboard2) / [Dashboard #3](https://public.tableau.com/app/profile/rui.campos/viz/CO2Emissions_17531143141330/Dashboard3)
 
 ---
 
