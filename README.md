@@ -16,7 +16,7 @@ Three datasets were joined using `Country Code` and `Year`, filtered for the yea
 - `co2_per_capita = CO2 emissions / population`
 - `gdp_per_capita = GDP / population`
 
-We used `SAFE_DIVIDE` and `CAST(... AS FLOAT64)` to ensure data consistency and avoid divide-by-zero errors.
+I have used `SAFE_DIVIDE` and `CAST(... AS FLOAT64)` to ensure data consistency and avoid divide-by-zero errors.
 
 ---
 
