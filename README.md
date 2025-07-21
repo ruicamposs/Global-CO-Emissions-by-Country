@@ -72,6 +72,6 @@ I have used `SAFE_DIVIDE` and `CAST(... AS FLOAT64)` to ensure data consistency 
 
 Dataset: [CO₂ emissions dataset](https://ourworldindata.org/co2-dataset-sources)
 
-Dashboards: [Dashboard #1](https://public.tableau.com/app/profile/rui.campos/viz/TotalCOEmissionsCOEmissionsperCapita/Dashboard1) / [Dashboard #2](https://public.tableau.com/app/profile/rui.campos/viz/GDPperCapitavsCOperCapitaCOEmissionsvsPopulation/Dashboard2) / [Dashboard #3](https://public.tableau.com/app/profile/rui.campos/viz/CO2Emissions_17531143141330/Dashboard)
+Dashboards: [Dashboard #1](https://public.tableau.com/app/profile/rui.campos/viz/TotalCOEmissionsCOEmissionsperCapita/Dashboard1) / [Dashboard #2](https://public.tableau.com/app/profile/rui.campos/viz/GDPperCapitavsCOperCapitaCOEmissionsvsPopulation/Dashboard2) / [Dashboard #3](https://public.tableau.com/app/profile/rui.campos/viz/CO2Emissions_17531143141330/Dashboard3)
 
 <img width="680" height="484" alt="Screenshot 2025-07-21 at 17 26 10" src="https://github.com/user-attachments/assets/69d7dd7b-bd13-45e4-8160-716283efe002" />
