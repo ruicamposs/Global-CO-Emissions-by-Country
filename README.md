@@ -2,6 +2,10 @@
 
 This project explores global CO₂ emissions using public datasets, focusing on total emissions, per capita emissions, population, and GDP. It was built using SQL (Google BigQuery) for data wrangling and Tableau Public for visualization.
 
+Dataset: [CO₂ emissions dataset](https://ourworldindata.org/co2-dataset-sources)
+
+Dashboards: [Dashboard #1](https://public.tableau.com/app/profile/rui.campos/viz/TotalCOEmissionsCOEmissionsperCapita/Dashboard1) / [Dashboard #2](https://public.tableau.com/app/profile/rui.campos/viz/GDPperCapitavsCOperCapitaCOEmissionsvsPopulation/Dashboard2) / [Dashboard #3](https://public.tableau.com/app/profile/rui.campos/viz/CO2Emissions_17531143141330/Dashboard)
+
 ---
 
 ## Data Sources
@@ -66,12 +70,6 @@ I have used `SAFE_DIVIDE` and `CAST(... AS FLOAT64)` to ensure data consistency 
 
 ---
 
-## 📂 Files
-- `sql/` folder: contains SQL scripts used in BigQuery
-- `README.md`: this file
-- Tableau Public Dashboard: [Link to dashboard](#) *(add link here)*
+Dataset: [CO₂ emissions dataset](https://ourworldindata.org/co2-dataset-sources)
 
----
-
-Made with ❤️ by Rui Campos
-
+Dashboards: [Dashboard #1](https://public.tableau.com/app/profile/rui.campos/viz/TotalCOEmissionsCOEmissionsperCapita/Dashboard1) / [Dashboard #2](https://public.tableau.com/app/profile/rui.campos/viz/GDPperCapitavsCOperCapitaCOEmissionsvsPopulation/Dashboard2) / [Dashboard #3](https://public.tableau.com/app/profile/rui.campos/viz/CO2Emissions_17531143141330/Dashboard)
