@@ -28,7 +28,7 @@ I have used `SAFE_DIVIDE` and `CAST(... AS FLOAT64)` to ensure data consistency 
 
 ### 1. Total CO₂ Emissions by Country (Map)
 - A filled map showing total emissions per country.
-- **Color gradient** adjusted to highlight variation without China/US dominating.
+- **Color gradient** adjusted to highlight variation without China/United States dominating.
 - Outliers like China were capped in a calculated field to enhance visibility.
 
 ### 2. CO₂ Emissions per Capita (Map)
@@ -38,11 +38,11 @@ I have used `SAFE_DIVIDE` and `CAST(... AS FLOAT64)` to ensure data consistency 
 ### 3. GDP per Capita vs CO₂ per Capita (Bubble Chart)
 - Reveals the correlation between wealth and emissions.
 - **Size = Population**, X = GDP per capita, Y = CO₂ per capita.
-- Highlights contrast between wealthy emitters (e.g., US) and populous low emitters (e.g., India).
+- Highlights contrast between wealthy emitters (e.g., United States) and populous low emitters (e.g., India).
 
 ### 4. CO₂ Emissions vs Population (Scatter Plot)
 - Both axes are in logarithmic scale.
-- Shows that bigger populations correlate with higher emissions, but with outliers like the US.
+- Shows that bigger populations correlate with higher emissions, but with outliers like the United States.
 
 ### 5. Global CO₂ Emissions Over Time (Line Chart)
 - Aggregated global emissions from 2015 to 2022.
@@ -50,7 +50,7 @@ I have used `SAFE_DIVIDE` and `CAST(... AS FLOAT64)` to ensure data consistency 
 
 ### 6. Top 10 CO₂ Emitters (2022) (Bar Chart)
 - Horizontal bars for countries with highest total emissions.
-- China, US, and India lead.
+- China, United States, and India lead.
 
 ### 7. Top 10 CO₂ Emitters per Capita (2022) (Bar Chart)
 - Highlights countries with high individual carbon footprints.
